@@ -8,7 +8,7 @@
 <li>The terminal of the router is accessed and the interface for the connection is established with specified gateway address.</li>
 <li>The server is then configured as a DHCP server with gateway, DNS server and TFTP addresses being specified.</li>
 </ol>
-<h3>Observations</h3>:
+<h3>Observations:</h3>
 <ol>
 <li>The PCs request the DHCP server for an IP address. Upon request an IP address is successfully assigned to the PC dynamically by the DHCP server.</li>
 <li>Pinging the addresss 127.0.0.0 sends the ping message to the same PC as the address is called loop-back address which addresses the same PC.</li>
