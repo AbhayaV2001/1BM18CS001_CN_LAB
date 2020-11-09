@@ -25,4 +25,4 @@
   <li>A - Acknowledgement</li></ul>
 
 <li>Individual PC request the server for an IP address.</li>
-<li>An IP address is assigned to the PC from a pool of IP addresses by the DHCP server.<li>
+<li>An IP address is assigned to the PC from a pool of IP addresses by the DHCP server.<li></ol>
